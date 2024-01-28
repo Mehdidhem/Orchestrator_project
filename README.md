@@ -38,8 +38,8 @@ Dans le script python mettre les differents serveurs d'apprentissage dans la lis
 
 Importer le projet et lancer les conteneurs : 
 ```bash
-    git clone 
-    cd Code (#les sous dossiers iterations vont etre supprimés seul la version finale importera)
+    git clone git@github.com:Mehdidhem/Orchestrator_project.git
+    cd src (#les sous dossiers iterations vont etre supprimés seul la version finale importera)
     docker-compose up --build
 ```
 
