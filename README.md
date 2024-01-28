@@ -2,7 +2,7 @@
 
 # Hera-MI - Outil d'Orchestration de Logs
 
-Ce référentiel GitLab contient le code source et la documentation pour le projet Hera-MI visant à développer un outil d'orchestration de logs. Cet outil a pour objectif de simplifier la gestion, la collecte, l'analyse et la visualisation des logs générés par nos expériences et analyses dans le domaine de l'intelligence artificielle appliquée à l'imagerie médicale.
+Ce projet en collaboration avec Hera-MI vise à développer un outil d'orchestration de logs. Cet outil a pour objectif de simplifier la gestion, la collecte, l'analyse et la visualisation des logs générés par nos expériences et analyses dans le domaine de l'intelligence artificielle appliquée à l'imagerie médicale.
 
 ## Table des matières
 
@@ -10,7 +10,7 @@ Ce référentiel GitLab contient le code source et la documentation pour le proj
 
 - [Fonctionnalités](#fonctionnalités)
 
-- [Démarage et configuration](#Démarage et configuration)
+- [Démarage et configuration](#démarage-et-configuration)
 
 ## Introduction
 
