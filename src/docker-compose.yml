@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  orchestrator:
+    build:
+      context: ./orch_server
+      dockerfile: Dockerfile
+    volumes:
+      - logs_volume:/home/user/logs
+
+  tb_server:
+    build: ./tb_server
+    ports:
+      - "6006:6006" 
+    volumes:
+      - logs_volume:/tensorboard/logs
+    depends_on:
+      - orchestrator
+
+volumes:
+  logs_volume:
