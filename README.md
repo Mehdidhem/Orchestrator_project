@@ -1,4 +1,4 @@
-# Projet Transversal 
+<img width="1231" height="760" alt="image" src="https://github.com/user-attachments/assets/6147f021-ac18-444a-a66c-088bfd5e17a7" /># Projet Transversal 
 
 # Hera-MI - Outil d'Orchestration de Logs
 
@@ -25,6 +25,7 @@ L'outil d'orchestration de logs que nous développons vise à simplifier cette t
 - Mises à Jour en Temps Réel : Les logs sont mis à jour en temps réel dans TensorBoard dès qu'ils sont disponibles.
 - Parallélisation : Les opérations de récupération des logs sont exécutées en parallèle pour une efficacité optimisée.
 - Notifications et Alertes : Les utilisateurs sont notifiés des nouvelles données et des anomalies détectées.
+<img width="1231" height="760" alt="image" src="https://github.com/user-attachments/assets/10d4d7cf-5e4c-4b62-967c-36ea2a7e07f4" />
 
 ## Démarage et configuration
 
