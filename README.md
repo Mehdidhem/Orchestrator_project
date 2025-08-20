@@ -1,4 +1,3 @@
-<img width="1231" height="760" alt="image" src="https://github.com/user-attachments/assets/6147f021-ac18-444a-a66c-088bfd5e17a7" /># Projet Transversal 
 
 # Hera-MI - Outil d'Orchestration de Logs
 
